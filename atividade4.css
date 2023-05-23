@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: gray;
+}
+
+div {
+    height: 130px;
+    width: 130px;
+    background-color: black;
+    position: fixed;
+}
+
+.box1 {
+    top: 0;
+}
+.box2{
+    top: 0;
+    left: 140px;
+}
+.box3 {
+    top: 0;
+    left: 280px;
+}
+.box4 {
+    top: 140px;
+}
+.box5 {
+    top: 140px;
+    left: 140px;
+}
+.box6 {
+    top: 280px;
+}
+.box7 {
+    bottom: 280px;
+    right: 0;
+}
+.box8 {
+    right: 140px;
+    bottom: 140px;
+}
+.box9 {
+    right: 0px;
+    bottom: 140px;
+}
+.box10 {
+    right: 0;
+    bottom: 0px;
+}
+.box11 {
+    right: 140px;
+    bottom: 0px;
+}
+.box12 {
+    right: 280px;
+    bottom: 0px;
+}
